@@ -1,4 +1,4 @@
-#Real-time data streaming
+# Real-time data streaming
 This project use Kafka and Airflow to streaming data to Cassandra. Use Zookeeper to manager broker of Kafka and Airflow to manage data pipeline. Containerized with Docker for seamless deployment and scalability
 
 ### **System Architecture**
